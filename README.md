@@ -86,11 +86,11 @@ activate chatbot
 ```
 pip install tensorflow==1.0.0 
 ```
-then open anaconda navigator choose chatbot as applications on Channels and run Spyder (recommned IDE for this program)
+then open anaconda navigator choose chatbot as applications on Channels and run Spyder (recommended IDE for this program)
 
 ## Authors
 
-* **Cuong Phan**  - [PurpleBooth](https://github.com/cmphan)
+* **Cuong Phan**  -(https://github.com/cmphan)
 
 
 
