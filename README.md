@@ -72,14 +72,14 @@ then press y and enter
 here chatbot is the name of the environment
 
 ```
-source activiate chatbot 
+source activate chatbot 
 ```
 
 ### Windows users: 
 
 
 ```
-activiate chatbot 
+activate chatbot 
 ```
 
 ### Install Tensorflow: 
