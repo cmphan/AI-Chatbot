@@ -67,7 +67,7 @@ then press y and enter
 ### Activiate the virtual environment
 
 
-### Mac/ Linus users: 
+### Mac/ Linux users: 
 
 here chatbot is the name of the environment
 
